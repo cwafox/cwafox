@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cwafox
+- 👀 I’m interested in JS,Python, PHP & MySQL
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on NodeJS, React
+- 📫 How to reach me enigmacwa@gmail.com
